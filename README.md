@@ -1,2 +1,3 @@
 # hello-world
-what's a repository
+
+Welcome to the README. I'm trying to see how this works.
